@@ -6,7 +6,16 @@ sky
 TODO:
 
 ## Sample ##
-TODO:
+```
+//sample 1
+d(2 4)            // result: 2
+//sample 2
+
+m(s(4 5) 4)       //result: 36
+
+//sample 3
+d(m(8 3) s(5 1))  //result: 3
+```
 
 ## Links ##
 - [Lexer](https://github.com/ziyasal/sky/blob/master/src/main/scala/Lexer.scala)
