@@ -3,7 +3,7 @@ sky
 > Super simple programming language developed for educational purpose in Scala
 
 ## Motivation ##
-Codign 4 fun, just trying to simplify how compilers work for who has interest
+Coding4fun, just trying to simplify how compilers work for who has interest
 
 ## How it works
 Compilers(mostly) have 3 primary stages; 
