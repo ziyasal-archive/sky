@@ -46,5 +46,5 @@ d(m(8 3) s(5 1))  //result: 3
 - [CodeGen](https://github.com/ziyasal/sky/blob/master/src/main/scala/GodeGenerator.scala)
 - [Compiler](https://github.com/ziyasal/sky/blob/master/src/main/scala/Compiler.scala)
 
-## Documentation ##
+## Step-By-Step Guide ##
 TODO:
