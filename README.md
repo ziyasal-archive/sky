@@ -3,7 +3,29 @@ sky
 > Super simple programming language developed for educational purpose in Scala
 
 ## Motivation ##
-TODO:
+Codign 4 fun, just trying to simplify how compilers work for who has interest
+
+## How it works
+Compilers(mostly) has 3 primary stages; 
+
+**Parsing**
+ - Lexical Analysis
+ - Syntactic Analysis
+
+** Transformation** 
+Make some changes on AST
+
+**Code Generation**
+Create code from AST
+
+```js
+              /----------\      /-----------------\       /-----------------\
+ /------\     |          |      |                 |       |                 |
+ | Raw  |____ | Parsing  |_____ | Transformation  |______ | Code Generation | 
+ | Code |     |          |      |                 |       |                 |
+ \------/     \----------/      \-----------------/       \-----------------/
+
+```
 
 ## Sample ##
 ```js
