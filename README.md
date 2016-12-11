@@ -6,11 +6,11 @@ sky
 TODO:
 
 ## Sample ##
-```
+```js
 //sample 1
 d(2 4)            // result: 2
-//sample 2
 
+//sample 2
 m(s(4 5) 4)       //result: 36
 
 //sample 3
