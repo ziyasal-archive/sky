@@ -30,7 +30,7 @@ Create code from AST
 ## Sample ##
 ```js
 //sample 1
-d(2 4)            // result: 2
+d(2 4)            // result: 0.5
 
 //sample 2
 m(s(4 5) 4)       //result: 36
