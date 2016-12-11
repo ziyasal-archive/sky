@@ -12,10 +12,10 @@ Compilers(mostly) has 3 primary stages;
  - Lexical Analysis
  - Syntactic Analysis
 
-** Transformation** 
+**Transformation**  
 Make some changes on AST
 
-**Code Generation**
+**Code Generation**  
 Create code from AST
 
 ```js
