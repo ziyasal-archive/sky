@@ -1,6 +1,6 @@
 sky
 ==========
-> Super simple programming language developed for educational purpose in Scala
+> Super simple programming language and tiny compiler developed for educational purpose in Scala
 
 ## Motivation ##
 Coding4fun, just trying to simplify how compilers work for who has interest
