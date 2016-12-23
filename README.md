@@ -1,6 +1,6 @@
 sky
 ==========
-> Super simple programming language developed for educational purpose in Scala
+> Super simple programming language and tiny compiler developed for educational purpose in Scala
 
 ## Motivation ##
 Coding4fun, just trying to simplify how compilers work for who has interest
@@ -29,14 +29,7 @@ Create code from AST
 
 ## Sample ##
 ```js
-//sample 1
-d(2 4)            // result: 0.5
-
-//sample 2
-m(s(4 5) 4)       //result: 36
-
-//sample 3
-d(m(8 3) s(5 1))  //result: 3
+//TODO:
 ```
 
 ## Links ##
