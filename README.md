@@ -33,7 +33,8 @@ Create code from AST
 ```
 
 ## Links ##
-- [Lexer](https://github.com/ziyasal/sky/blob/master/src/main/scala/Lexer.scala)
+- [Tokenizer](https://github.com/ziyasal/sky/blob/master/src/main/scala/lib/Tokenizer.scala)  
+**TODO:**
 - [Parser](https://github.com/ziyasal/sky/blob/master/src/main/scala/Parser.scala)
 - [Transformer](https://github.com/ziyasal/sky/blob/master/src/main/scala/Transformer.scala)
 - [CodeGen](https://github.com/ziyasal/sky/blob/master/src/main/scala/GodeGenerator.scala)
