@@ -34,7 +34,7 @@ Create code from AST
 
 ## Links ##
 - [x] [Tokenizer](https://github.com/ziyasal/sky/blob/master/src/main/scala/lib/Tokenizer.scala)  
-- [ ] Parser
+- [x] [Parser](https://github.com/ziyasal/sky/blob/master/src/main/scala/lib/Parser.scala)
 - [ ] Transformer
 - [ ] CodeGen
 - [ ] Compiler
