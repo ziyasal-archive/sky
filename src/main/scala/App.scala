@@ -6,8 +6,10 @@ object App {
     val tokenizer = new Tokenizer()
     val tokens = tokenizer.tokenize("(add 2 (subtract 4 2))")
 
-    // val parser =  new Parser()
-    // val ast = parser.parse(tokens);
+     val parser =  new Parser()
+     val ast = parser.parse(tokens)
+
+    println(ast)
     //
     // val transformer =  new Transformer()
     // val newAst = parser.transform(ast)
